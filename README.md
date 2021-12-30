@@ -19,4 +19,4 @@
 If you have any questions, please contact me at (aoluo_uestc@hotmail.com).
 
 ## Acknowledgement
-Code is partially adapted from [DMRA](https://https://github.com/jiwei0921/DMRA). Please refer to [RGBD-SOD-datasets](https://github.com/jiwei0921/RGBD-SOD-datasets) for more details about the training and testing datasets.
+Code is partially adapted from [DMRA](https://github.com/jiwei0921/DMRA). Please refer to [RGBD-SOD-datasets](https://github.com/jiwei0921/RGBD-SOD-datasets) for more details about the training and testing datasets.
